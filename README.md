@@ -1,2 +1,2 @@
 # mahalle
-Türkiye'nin ilçelerini kapsayan mahalle haritası.
+Türkiye il ve ilçelerine göre sıralanmış mahalle listesi.
